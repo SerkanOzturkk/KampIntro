@@ -20,6 +20,7 @@ basvuruManager.BasvuruYap(tasitKrediManager,loggerServices);
 
 List<IKrediManager> krediler = new List<IKrediManager>() {ihtiyacKrediManager,tasitKrediManager};
 
+  
 //basvuruManager.KrediOnBilgilendirmesiYap(krediler);
 
 
